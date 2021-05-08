@@ -14,7 +14,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aliendev66.aliendev66)
+![](https://visitor-badge.glitch.me/badge?page_id=adilsonLopesDev.adilsonLopesDev)
 
 <br />
 
@@ -42,7 +42,7 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 <p>
   <a href="https://github.com/AdilsonLopesDev?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
-          src="https://github-readme-stats.vercel.app/api?username=AdilsonLopesDevc&show_icons=true&theme=algolia&count_private=true" />
+          src="https://github-readme-stats.vercel.app/api?username=AdilsonLopesDev&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
 
