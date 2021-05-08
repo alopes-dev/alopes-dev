@@ -1,13 +1,14 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.com/channels/790711900123562005/790711900123562007">
+
+<a href="https://discord.com/channels/@me/680002199379640356">
   <img align="left" alt="Alien Space Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/AlienShikadai66">
-  <img align="left" alt="Alien Shikadai | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/@_AntonioLopes_">
+  <img align="left" alt="AntonioLopes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/domingos-capitango-a8367019b/">
-  <img align="left" alt="Domingos Capitango LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ant%C3%B3nio-ferraz-lopes-448019178/">
+  <img align="left" alt="Antonio Lopes LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/lvi3lmcqcqwi65kia5km1eht4">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -20,7 +21,7 @@
 Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@alienshikadai66](https://twitter.com/AlienShikadai66);
+- 📫 How to reach me: [@_AntonioLopes_](https://twitter.com/_AntonioLopes_);
 - 📝 [Resume](https://docs.google.com/document/d/1RS5syta56b2DaX64TlHX6I_kAV4X51_i-tOQ2c8q-_s/view)
 
 <img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
@@ -39,9 +40,9 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 
 📈 My GitHub Stats
 <p>
-  <a href="https://github.com/AlienDev66?tab=repositories">
+  <a href="https://github.com/AdilsonLopesDev?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
-          src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true&theme=algolia&count_private=true" />
+          src="https://github-readme-stats.vercel.app/api?username=AdilsonLopesDevc&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
 
@@ -64,7 +65,7 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.linkedin.com/in/domingos-capitango-a8367019b/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.linkedin.com/in/ant%C3%B3nio-ferraz-lopes-448019178/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
