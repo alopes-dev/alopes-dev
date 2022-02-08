@@ -53,7 +53,7 @@
 Hi, I'm [António ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@_AntonioLopes_](https://twitter.com/_AntonioLopes_);
+- 📫 How to reach me: [@_AntonioLopes_](https://www.linkedin.com/in/ant%C3%B3nio-lopes-448019178/);
 - 📝 [Resume](https://docs.google.com/document/d/1RS5syta56b2DaX64TlHX6I_kAV4X51_i-tOQ2c8q-_s/view)
 
 <img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
