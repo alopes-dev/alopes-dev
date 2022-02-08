@@ -46,7 +46,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=adilsonLopesDev.adilsonLopesDev)
+![](https://visitor-badge.glitch.me/badge?page_id=alopes-dev.alopes-dev)
 
 <br />
 
@@ -74,13 +74,13 @@ Hi, I'm [António ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 <p>
   <a href="https://github.com/AdilsonLopesDev?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
-          src="https://github-readme-stats.vercel.app/api?username=AdilsonLopesDev&show_icons=true&theme=algolia&count_private=true" />
+          src="https://github-readme-stats.vercel.app/api?username=alopes-dev&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=adilsonLopesDev&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=alopes-dev&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonLopesDev&layout=compact)](https://github.com/adilsonLopesDev/github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alopes-dev&layout=compact)](https://github.com/adilsonLopesDev/github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
 
