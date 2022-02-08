@@ -1,6 +1,7 @@
 <p align="center">
-
- <img width="100px"  style="border-radius:50%" src="https://user-images.githubusercontent.com/49714406/117550268-51620400-b037-11eb-86e6-9c2d47bb6bca.png" align="center" alt="GitHub Readme Stats" />
+<kbd>
+ <img width="100px"  style="border-radius:50%" src="https://user-images.githubusercontent.com/49714406/152960841-588a94ac-098a-428c-8a1f-f7928979ceb1.jpg" align="center" alt="GitHub Readme Stats" />
+ </kbd>
 
  <h2 align="center">António Lopes</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
