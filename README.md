@@ -6,6 +6,7 @@
     background-image: url('https://avatars.githubusercontent.com/u/49714406?v=4');
     background-size: cover;
     background-position: center;
+    background: red;
   ">
   </div>
 </p>
