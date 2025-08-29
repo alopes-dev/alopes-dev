@@ -11,7 +11,7 @@
 - 📌 Expertise in **Web & Mobile Development, Backend Engineering, and DevOps**  
 - 🎯 Currently focusing on **AI-powered software engineering, scalable architectures, and financial automation systems**  
 - 🧠 Exploring advanced topics in **TensorFlow, OCR/NLP for FinTech, and SwiftUI for iOS apps**  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/seu-usuario) | [Email](mailto:antonioferrazlopes@hotmail.com)  
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/alopesdev) | [Email](mailto:antonioferrazlopes@hotmail.com)  
 
 ---
 
@@ -34,16 +34,16 @@
 ---
 
 ## 📌 Featured Projects
-🔹 [**Nebulance**](https://github.com/seu-usuario/nebulance) – An intelligent financial assistant with **expense categorization, OCR, and financial forecasting**.  
-🔹 [**OCR Extractor**](https://github.com/seu-usuario/ocr-extractor) – Node.js API for **bank statement data extraction** (PDF, CSV, OFX) using NLP.  
-🔹 [**ETF Portfolio Tracker**](https://github.com/seu-usuario/finance-portfolio) – Automated **investment portfolio manager** for ETFs with dividend and contribution tracking.  
-🔹 [**SwiftUI Compressor**](https://github.com/seu-usuario/swiftui-compressor) – iOS app for **file compression and conversion** using SwiftUI.  
+🔹 [**Nebulance**](https://github.com/alopes-dev/nebulance-api) – An intelligent financial assistant with **expense categorization, OCR, and financial forecasting**.  
+🔹 [**OCR Extractor**](https://github.com/alopes-dev/ocr-extractor) – Node.js API for **bank statement data extraction** (PDF, CSV, OFX) using NLP.  
+🔹 [**ETF Portfolio Tracker**](https://github.com/alopes-dev/finance-portfolio) – Automated **investment portfolio manager** for ETFs with dividend and contribution tracking.  
+🔹 [**SwiftUI Compressor**](https://github.com/alopes-dev/swiftui-compressor) – iOS app for **file compression and conversion** using SwiftUI.  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alopes-dev&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alopes-dev&layout=compact&theme=tokyonight)  
 
 ---
 
