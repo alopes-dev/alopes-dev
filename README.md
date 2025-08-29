@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/49714406?v=4" alt="António Ferraz Lopes" width="150" height="150" />
+  <img src="https://avatars.githubusercontent.com/u/49714406?v=4" alt="António Ferraz Lopes" width="150" height="150" style="border-radius:50%;"/>
 </p>
-
-<style>
-  img[alt="António Ferraz Lopes"] {
-    border-radius: 50%;
-  }
-</style>
 
 # 👋 Hi, I'm António Ferraz Lopes  
 
