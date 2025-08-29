@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/alopesdev.png" alt="António Ferraz Lopes" width="150" style="border-radius:50%">
+</p>
+
 # 👋 Hi, I'm António Ferraz Lopes  
 
 💻 **Full Stack Software Engineer** with 6+ years of experience building scalable and high-performance **web and mobile applications**.  
